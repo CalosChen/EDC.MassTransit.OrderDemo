@@ -1,0 +1,17 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.xml
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.Messages.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.Messages.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.PaymentService\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.NB.PaymentService.csprojAssemblyReference.cache

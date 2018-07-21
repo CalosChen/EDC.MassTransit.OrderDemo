@@ -1,0 +1,17 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.pdb
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.deps.json
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.dll
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.pdb
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.AssemblyInfoInputs.cache
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.AssemblyInfo.cs
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.dll
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.pdb
+E:\Projects\DNC\EDC.MassTransit.OrderDemo\Manulife.DNC.MSAD.WS.Events\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.WS.Events.csprojAssemblyReference.cache
