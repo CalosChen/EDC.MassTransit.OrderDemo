@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj",
+      "projectUniqueName": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj",
       "projectName": "Manulife.DNC.MSAD.WS.Events",
-      "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj",
+      "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.Events\\obj\\",
+      "outputPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

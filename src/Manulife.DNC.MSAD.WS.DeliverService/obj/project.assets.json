@@ -14129,11 +14129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.DeliverService\\Manulife.DNC.MSAD.WS.DeliverService.csproj",
+      "projectUniqueName": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.DeliverService\\Manulife.DNC.MSAD.WS.DeliverService.csproj",
       "projectName": "Manulife.DNC.MSAD.WS.DeliverService",
-      "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.DeliverService\\Manulife.DNC.MSAD.WS.DeliverService.csproj",
+      "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.DeliverService\\Manulife.DNC.MSAD.WS.DeliverService.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.DeliverService\\obj\\",
+      "outputPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.DeliverService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14152,14 +14152,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj": {
-              "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj"
+            "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj": {
+              "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj"
             },
-            "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.EventBackgroundService\\Manulife.DNC.MSAD.WS.EventService.csproj": {
-              "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.EventBackgroundService\\Manulife.DNC.MSAD.WS.EventService.csproj"
+            "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.EventBackgroundService\\Manulife.DNC.MSAD.WS.EventService.csproj": {
+              "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.EventBackgroundService\\Manulife.DNC.MSAD.WS.EventService.csproj"
             },
-            "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj": {
-              "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj"
+            "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj": {
+              "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.WS.Events\\Manulife.DNC.MSAD.WS.Events.csproj"
             }
           }
         }

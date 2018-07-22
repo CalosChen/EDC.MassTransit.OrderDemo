@@ -13316,11 +13316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj",
+      "projectUniqueName": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj",
       "projectName": "Manulife.DNC.MSAD.Common",
-      "projectPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj",
+      "projectPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.Common\\Manulife.DNC.MSAD.Common.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DNC\\EDC.MassTransit.OrderDemo\\Manulife.DNC.MSAD.Common\\obj\\",
+      "outputPath": "E:\\Projects\\Git\\EDC.MassTransit.OrderDemo\\src\\Manulife.DNC.MSAD.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
